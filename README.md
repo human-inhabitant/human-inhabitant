@@ -14,7 +14,7 @@ const fact = ( later === never );
 ```
 ---
 #### Some TMI...
-My primary joys these days are God (theology), my lovely :woman: Patti, :dog2: Muffin, `JavaScript` ([ES5](https://en.wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_%E2%80%93_ECMAScript_2015)-isms), `PHP` and Metal Bass (the :guitar: not the :fish:), in that order...  actually.
+My primary joys these days are God (theology), my lovely :woman: Patti, :dog2: Muffin, `linux`, `JavaScript` ([ES5](https://en.wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_%E2%80%93_ECMAScript_2015)-isms), `PHP` and Metal Bass (the :guitar: not the :fish:), in that order...  actually.
 
 I am a :closed_lock_with_key: privacy advocate and have *de-Googled* myself entirely with only one current road block. My phone... still waiting on [/e/](https://e.foundation/) to sell to the US then it will be official.
 
