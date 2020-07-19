@@ -1,6 +1,6 @@
 ---
 #### Some details...
-I am a :trollface: web troller... :hammer: code tinkerer... :lock: Tor patron... and a self taught full-stack developer, I have been trolling/developing since the year... `2e3`.
+I am a web troller :trollface:... code tinkerer :hammer:... Tor patron :lock:... and a self taught full-stack developer, I have been trolling/developing since the year... `2e3`.
 
 *Remember [Classic ASP](https://en.wikipedia.org/wiki/Active_Server_Pages) with [Microsoft Access](https://en.wikipedia.org/wiki/Microsoft_Access) backends...?* I do.  
 *Remember [framesets](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset) and using [tables](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) for layout...?* Yep, me too.  
@@ -13,9 +13,9 @@ const fact = ( later === never );
 ```
 ---
 #### Some <abbr title="Too much information...">TMI</abbr>...
-My primary joys these days are God (theology), my lovely :woman: Patti, :dog2: Muffin, [Linux Mint](https://www.linuxmint.com/donors.php), `JavaScript` ([ES5](https://en.wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_%E2%80%93_ECMAScript_2015)-isms), `PHP` and Metal Bass (the :guitar: not the :fish:), in that order...  actually.
+My primary joys these days are God (theology), my lovely :woman: Patti, :dog2: Muffin, `JavaScript` ([ES5](https://en.wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_%E2%80%93_ECMAScript_2015)-isms), `PHP` and Metal Bass (the :guitar: not the :fish:), in that order...  actually.
 
-I am a :closed_lock_with_key: privacy advocate and have *de-Googled* myself entirely with only one current road block. My phone... still waiting on [/e/](https://e.foundation/) to sell to the US then it will be official.
+I am a privacy advocate :closed_lock_with_key: and have *de-Googled* myself entirely with only one current road block. My phone... still waiting on [/e/](https://e.foundation/) to sell to the US then it will be official.
 
 Some alternatives:  
 * Google Search
