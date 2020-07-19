@@ -1,13 +1,13 @@
 #### Some details...
-I am a self taught full-stack developer, I have been developing since the year... 2e3.
+I am a self taught full-stack developer, I have been developing since the year... `2e3`.
 
-Remember Classic ASP with Microsoft Access backends...? I do.  
-Remember framesets and tables for layout...? Yep, me too.  
-Remember the whole XHTML push and fail...? That's right, me too.
+*Remember Classic ASP with Microsoft Access backends...?* I do.  
+*Remember framesets and tables for layout...?* Yep, me too.  
+*Remember the whole XHTML push and fail...?* That's right, me too.
 
-My current position includes Java, Groovy, JavaScript, *old* AngularJS, Jest, MSSQL and MySQL, all things [Atlassian](https://www.atlassian.com/) and thousands of lines of legacy spaghettification (that they are trying to fix overnight).
+My current position includes `Java`, `Groovy`, `JavaScript`, *old* `AngularJS`, `Jest`, `MSSQL` and `MySQL`, all things [Atlassian](https://www.atlassian.com/) and thousands of lines of legacy spaghettification (that they are trying to fix overnight).
 
-My primary joys these days are God (theology), :woman: Patti, :dog2: Muffin, JavaScript (ES5, ES6-isms), PHP and Metal Bass (the :guitar: not the :fish:), in that order. 
+My primary joys these days are God (theology), my lovely :woman: Patti, :dog2: Muffin, `JavaScript` (ES5, ES6-isms), `PHP` and Metal Bass (the :guitar: not the :fish:), in that order...  actually.
 
 I am a privacy advocate and have *de-Googled* myself entirely with only one current road block. My phone... still waiting on [/e/](https://e.foundation/) to sell to the US then it will be official.
 
