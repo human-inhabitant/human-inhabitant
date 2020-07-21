@@ -3,6 +3,10 @@ const fact = ( later === never );
 ```
 
 ---
+#### Some kool places you may find me...
+[Mastodon](https://mastodon.social/@inhabitant) | [Keybase](https://keybase.io/inhabitant) | :heavy_exclamation_mark:[LinkedIn](https://duckduckgo.com/?q=%28%28inhabitant%29AND%28human%29%29%20site%3Alinkedin.com) | :heavy_exclamation_mark:[Facebook](https://duckduckgo.com/?q=%28%28inhabitant%29AND%28human%29%29%20site%3Afacebook.com)
+
+---
 #### Some details...
 
 I am a web troller... code tinkerer... Tor patron... and a self taught full-stack developer, I have been trolling/developing since the year... `2e3`.
@@ -14,7 +18,7 @@ I am a web troller... code tinkerer... Tor patron... and a self taught full-stac
 My current position includes `Java`, `Groovy`, `JavaScript`, *old* `AngularJS`, `Jest`, `MSSQL` and `MySQL`, all things [Atlassian](https://www.atlassian.com/) and thousands of lines of legacy spaghettification (that they are trying to fix overnight).
 
 ---
-#### Some TMI...
+#### TL;DR...
 My primary joys these days are God (theology), my lovely :woman: Patti, :dog2: Muffin, `linux`, `JavaScript` ([ES5](https://en.wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_%E2%80%93_ECMAScript_2015)-isms), `PHP` and Metal Bass (the :guitar: not the :fish:), in that order...  actually.
 
 I am a :closed_lock_with_key: privacy advocate and have *de-Googled* myself entirely with only one current road block. My phone... still waiting on [/e/](https://e.foundation/) to sell to the US then it will be official.
@@ -69,8 +73,5 @@ Some alternatives (:star: faves):
      Best bang for your buck, easy to install on Linux and Windblows... I always run with VPN killswitch engaged. I do run into multiple sites that block me though. PIA stopped accepting blocked IP reports, so I either find another compatible site or if desperate disable the VPN.
    * [ProtonVPN](https://protonvpn.com/)  
      Not to bad, though set up on Linux is not for the faint of heart, often fails an [ipleak.net](https://ipleak.net/) test.
----
-#### Some kool places you may find me...
-[Mastodon](https://mastodon.social/@inhabitant) | [Keybase](https://keybase.io/inhabitant) | :heavy_exclamation_mark:[LinkedIn](https://duckduckgo.com/?q=%28%28inhabitant%29AND%28human%29%29%20site%3Alinkedin.com) | :heavy_exclamation_mark:[Facebook](https://duckduckgo.com/?q=%28%28inhabitant%29AND%28human%29%29%20site%3Afacebook.com)
 
 ---
