@@ -50,8 +50,8 @@ Some alternatives (:star: faves):
    * [Keybase](https://keybase.io/)  
      Keybase can store your photos, videos, and documents with end-to-end encryption.
 * Browsers
-   * [Brave](https://brave.com/) :star: 
-     The whole BAT thing is a bit wonky, but blocks adds like no ones business.
+   * [Brave](https://brave.com/) :star:  
+     The whole [BAT](https://basicattentiontoken.org/) thing is a bit wonky, but blocks adds like no ones business.
    * [Firefox](https://www.mozilla.org/en-US/firefox/)  
      Meh... better than Chrome.
    * [Tor Browser](https://www.torproject.org/)  
