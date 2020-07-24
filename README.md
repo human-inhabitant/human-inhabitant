@@ -9,7 +9,7 @@ const fact = ( later === never );
 ---
 #### Some details...
 
-I am a :closed_lock_with_key: privacy advocate and continually work to *de-Googled* myself... code tinkerer... Tor patron... and a self taught full-stack developer, I have been coding/developing since the year... `2e3`. My current position includes `Java`, `Groovy`, `JavaScript`, *old* `AngularJS`, `Jest`, `MSSQL` and `MySQL`, workng with thousands of lines of legacy spaghettification *(that they are trying to fix overnight)*.
+I am a :closed_lock_with_key: privacy advocate and continually work to *de-Google* myself... code tinkerer... Tor patron... and a self taught full-stack developer, I have been coding/developing since the year... `2e3`. My current position includes `Java`, `Groovy`, `JavaScript`, *old* `AngularJS`, `Jest`, `MSSQL` and `MySQL`, workng with thousands of lines of legacy spaghettification *(that they are trying to fix overnight)*.
 
 *Remember [Classic ASP](https://en.wikipedia.org/wiki/Active_Server_Pages) with [Microsoft Access](https://en.wikipedia.org/wiki/Microsoft_Access) backends...?* I do.  
 *Remember [framesets](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frameset) and using [tables](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) for layout...?* Yep, me too.  
