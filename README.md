@@ -2,5 +2,5 @@
 const fact = ( later === never );
 ```
 
-[Keybase](https://keybase.io/inhabitant)
-[Listed](https://listed.to/@human)
+:old_key: [Keybase](https://keybase.io/inhabitant)  
+:scroll: [Listed](https://listed.to/@human)  
