@@ -1,10 +1,13 @@
+Wait... what?
+---
 ```javascript
 { !false }
 // It's funny because it's true...
 
 const fact = (later === never);
-// Also funny... and true...
+// Also funny... and also true...
 
-// Fun Fact:
-// I cleaned up my GitHub account... so many repos... so much was purged.
+!(factChecked)
+// Just sad...
 ```
+__'25:__ _All... public repos' removed._
